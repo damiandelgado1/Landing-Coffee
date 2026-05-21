@@ -3,7 +3,7 @@ body {
     background-color: #272727;
     color: white;
     font-family: 'Afacad';
-    font-size: 30;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -11,9 +11,9 @@ body {
     background-color: #2F241B;
     border: none;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
-    padding: 10px;
+    padding: 16px;
 }
 
 .form {
@@ -31,5 +31,20 @@ a {
 }
 
 a:hover {
+    color: #7C5C40;
+}
+
+
+/* Type Coffee Page */
+.list {
+    background-color: #2F241B;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 16px;
+}
+
+.important-word {
     color: #7C5C40;
 }
