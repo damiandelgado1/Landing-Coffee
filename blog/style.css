@@ -1,0 +1,25 @@
+body {
+    background-color: #272727;
+    color: white;
+    font-family: 'Afacad';
+    font-size: 30;
+    text-align: center;
+}
+
+.keyword-coffee {
+    color: #7C5C40;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #7C5C40;
+}
+
+.form {
+    background-color: #7C5C40;
+    padding: 40px;
+}
