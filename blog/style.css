@@ -1,9 +1,24 @@
+/* Page main */
 body {
     background-color: #272727;
     color: white;
     font-family: 'Afacad';
     font-size: 30;
     text-align: center;
+}
+
+.detail-blog {
+    background-color: #2F241B;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.form {
+    background-color: #7C5C40;
+    padding: 40px;
 }
 
 .keyword-coffee {
@@ -17,9 +32,4 @@ a {
 
 a:hover {
     color: #7C5C40;
-}
-
-.form {
-    background-color: #7C5C40;
-    padding: 40px;
 }
